@@ -29,3 +29,52 @@
 * 14.45 - Attraction Indian Buffet Distribution 
 
 #### Omics II CC-West 218
+
+* 14.05 - A Correlated Random Effects Hurdle Model for Detecting Differentially Expressed Genes in Discrete Single Cell RNA Sequencing Data 
+* 14.35 - GLM-Based Latent Variable Ordination Method for Microbiome Samples
+* 15.20 - 	A Two-Part Semiparametric Model for Metabolomics and Proteomics Data
+
+#### Statistical Advances in the Design and Analysis of Sequence-Based Genetic Association Studies CC-West 213
+
+#### Analysis of Big Dynamically Dependent Data CC-East 19
+
+* 14.30 - Statistical Inference for High-Dimensional Time Series
+* 14.55 - Dynamic Shrinkage Processes 
+
+#### Bayesian Variable Selection and Shrinkage in Epidemiology Studies 	CC-West 203
+* 14.45 - Dynamic Variable Selection with Spike-And-Slab Process Priors
+
+#### 15.05-15.50 Topics in Bayesian Analysis poster sessions 	CC-West Hall B
+
+#### Topics in Statistical Learning CC-West 111
+* 14.20 - 	Structure Learning for Phylogenetic Tree with Quantitative Characters 
+* 14.35 - Greedy Active Learning Algorithm for Logistic Regression Models
+
+
+## Tuesday July 31st
+
+### 8.30-10.20
+
+#### Introductory Overview Lecture: Reproducibility, Efficient Workflows, and Rich Environments CC-West Ballroom A
+
+* 8.50 - Living a Reproducible Life (Hadley Wickham)
+* 
+
+#### Genomical Is the New Astronomical: Big Data Algorithms and Applications in Genomics CC-West 109
+* 8.35 - Cloud Computing Approaches to Genomic Data Science
+
+#### SPEED: Recent Advances in Statistical Genomics and Genetics CC-West 212
+* 8.50 - 	Three-Component Dissection of Tumor Cellular Heterogeneity by a Bayesian Hierarchical Model
+* 9.50 - Four-Step Cross-Validation Procedure in Biomarker Prognostic Cox Model Development 
+* 10.05 - A Probabilistic Model to Estimate the Temporal Order of Pathway Mutations During Tumorigenesis 
+* 10.10 - Using Area Under PSD to Detect the Tumor Heterogeneity Difference with Single Cell Data
+
+#### Omics I CC-West 223
+* 9.35 - A Multi-Step Classifier Addressing Cohort Heterogeneity Improves Performance of Prognostic Biomarkers in Three Cancer Types
+* 9.50 - Modeling Dynamics of V(D)J Recombination in T Cell Formation
+
+#### Topics of Variable Selection CC-West 111
+* 9.50 - Nonlinear Variable Selection Using Deep Neural Network
+
+
+
