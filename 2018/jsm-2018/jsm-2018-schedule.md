@@ -76,5 +76,24 @@
 #### Topics of Variable Selection CC-West 111
 * 9.50 - Nonlinear Variable Selection Using Deep Neural Network
 
+### 10.30-12.20
+
+#### Statistical Issues in Application of Machine Learning to High-Stakes Decisions CC-West Ballroom A
+* 10.55 - Interpretable Machine Learning for High-Stakes Decisions *
+* 11.35 - A Standardized Framework to Generate and Evaluate Patient-Level Prediction Models Using Observational Health Care Data
+
+#### Recent Advances in Statistical Genomics and Genetics posters CC-West Hall B
+
+#### Innovative Analysis Methods for Various Types of High-Throughput and Heterogeneous Data CC-West 217
+* 11.35 - Discovering Chromatin Interactions from Hi-C Data with Replicates Using Integrated Mixture Models
+
+#### Highlights from Bayesian Analysis CC-West 120
+* 11.25 - Variational Hamiltonian Monte Carlo via Score Matching
+
+#### SPEED: Classification and Data Science — Contributed Speed CC-West 212
+* 10.45 - Differentiable Approximations of Hidden Markov Models for Variational Bayesian Inference 
+
+#### Topics in Machine Learning CC-West 119
+* 10.35 - Using Q-Learning Method in Identify Optimal Treatment Regime
 
 
