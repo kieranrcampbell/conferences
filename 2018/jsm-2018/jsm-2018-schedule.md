@@ -96,4 +96,26 @@
 #### Topics in Machine Learning CC-West 119
 * 10.35 - Using Q-Learning Method in Identify Optimal Treatment Regime
 
+### 14.00 - 15.50
+
+#### Recent Developments in Integrating Multiple-Omics Data in Complex Diseases CC-West 119
+
+* 14.05 - Constructing Tumor-Specific Gene Regulatory Networks Based on Sample with Tumor Purity Heterogeneity
+* 14.45 - Variation and Genetic Control of Protein Abundance in Human Tissues
+
+#### Foundations of Data Science 	CC-West 213
+* 14.05 - A Statistical View on Optimal Transport: Inference, Algorithms, Applications 
+* 14.30 - Large Numbers of Explanatory Variables
+
+#### Statistical and Computational Advances in Cancer Genomics with Application to Precision Medicine 	CC-West 122
+* 14.55 - Unsupervised Learning for Deciphering Mutational Signatures in Human Cancer 
+* 15.20 - Predicting Cancer Outcomes from Genomics Data
+
+#### Recent Advances in Bayesian Computation and Modeling of High-Dimensional Multivariate Data CC-West 217
+* 14.05 - 	Gaussian Variational Approximation for High-Dimensional State Space Models
+* 15.05 - 	Variational Bayes Estimation of Time Series Copulas for Multivariate Ordinal and Mixed Data
+* 15.25 - Efficiently Combining Pseudo Marginal and Particle Gibbs Sampling
+
+#### Advances in Bayesian Modeling and Inferential Methods - CC-West 218
+* 14.20 - Bayesian Nonparametric Models for Multivariate Processes in Phylodynamics Using Stochastic Differential Equations
 
