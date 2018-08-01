@@ -119,3 +119,31 @@
 #### Advances in Bayesian Modeling and Inferential Methods - CC-West 218
 * 14.20 - Bayesian Nonparametric Models for Multivariate Processes in Phylodynamics Using Stochastic Differential Equations
 
+## Wednesday August 1st
+
+### 8.30 - 10.20
+
+#### Inference with Clustered Data: Lessons from Multiple Disciplines CC-West 203
+
+* 8.25 - 	Modeling Covariance Structure for Longitudinal Data
+
+#### Getting Shots Inside the Box-Cox -- Transformational Soccer Analytics CC-West 301
+
+* 9.00 - 	From Intuition to Objective Analysis: Data-Oriented Strategies at F.C. Barcelona
+
+#### Introductory Lectures on Recent Advancements in Computational Statistics - CC-West 306
+* 9.00 - 	Beyond the Bayesian Lasso: a Review of Continuous Shrinkage Priors
+
+#### New Directions in Personalized Treatment Selection CC-West 304/305
+* 9.35 - Constructing Stabilized Dynamic Treatment Regimes
+* 9.55 - Selection of the Optimal Personalized Treatment from Multiple Treatments with Multivariate Outcome Measures
+
+#### Statistical Advances for Cancer Genomics and Immunogenomics - from Single-Cell to Correlated Population CC-West 122
+* 9.15 - 	Using RNA-Seq Data to Study Patients' Response on Tumor Immunotherapy
+
+#### Bayesian Latent Variable Methods for Life Sciences CC-East 19
+* 9.50 - 	A Nonparametric Bayesian Model for Single-Cell Variant Calling
+
+#### Neural Networks, Deep Learning, and RKHS 	CC-West 217
+8.50 - Posterior Impropriety of Some Sparse Bayesian Learning Models
+
